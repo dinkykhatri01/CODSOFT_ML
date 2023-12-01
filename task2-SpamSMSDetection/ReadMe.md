@@ -1,4 +1,4 @@
-# SMS Spam Detection System
+# CODSOFT November 2023 ML Task 2 SMS Spam Detection System
 
 **CODSOFT NOVEMBER 2023 ML TASK 2 - Spam SMS Detection**
 
