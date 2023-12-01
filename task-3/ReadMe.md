@@ -1,5 +1,4 @@
-# CODSOFT November 2023 ML Task 3 - Fraud Detection Simplified
-
+# CODSOFT November 2023 ML Task 3 - CREDIT CARD FRAUD DETECTION
 
 
 **Objective:** Detect Credit Card Fraud with Precision
