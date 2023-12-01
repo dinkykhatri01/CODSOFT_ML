@@ -2,8 +2,6 @@
 
 ## CODSOFT November 2023 ML Task 1 Movie Genre Prediction System
 
-**CODSOFT NOVEMBER 2023 ML TASK - Movie Genre Classification**
-
 ### Overview
 
 Welcome to the Movie Genre Prediction System repository! This project focuses on predicting movie genres based on their plots using a MultiOutput Naive Bayes approach. The system is designed to learn, identify, and classify movie genres with the help of machine learning techniques.
